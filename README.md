@@ -25,7 +25,7 @@ This project is a Python-based automated One-Time Password (OTP) service that ge
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/automated-email-otp-service.git
+   git clone https://github.com/Darshanit/OTP_Generator.git
    ```
    
 2. **Navigate to the Project Directory:**
